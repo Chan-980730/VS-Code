@@ -1,0 +1,41 @@
+- 파일 및 편집 관련 단축키 -
+
+새 파일 만들기 : Ctrl + N
+파일 열기 : Ctrl + O
+파일 저장 : Ctrl + S
+파일 닫기 : Ctrl + W
+다른 키와 조합하여 사용 : Ctrl + K
+모든 파일 닫기 : Ctrl + K, Ctrl + W
+파일 탐색기 열기/닫기 : Ctrl + Shift + E
+찾기 : Ctrl + F
+찾기 및 바꾸기 : Ctrl + H
+모두 선택 : Ctrl + A
+줄 바꿈 (라인 끝으로 이동) : End
+이전/다음 줄로 이동 : Ctrl + Up/Down Arrow
+
+- 검색 및 코드 탐색 관련 단축키 - 
+
+파일 간 검색 : Ctrl + P
+정의로 이동 : F12
+
+- 편집 및 코드 수정 관련 단축키 -
+
+줄 복사 : Ctrl + C (빈 곳 클릭)
+줄 이동 (위/아래로) : Alt + Up/Down Arrow
+주석 처리 : Ctrl + /
+멀티 커서 : Alt + Click
+여러 줄 수정 (멀티 커서 사용) : Ctrl + Alt + Down/Up Arrow
+코드 정렬/포맷팅 : Shift + Alt + F
+
+- 터미널 관련 단축키 - 
+
+통합 터미널 열기/닫기 : Ctrl + ~
+터미널 창 간 전환 : Ctrl + Shift + [ or ]
+터미널에서 명령어 실행 : Ctrl + Enter
+
+- 디버깅 관련 단축키 -
+
+디버깅 시작/중지 : F5
+다음 단계로 이동 : F10
+중단점 설정/해제 : F9
+
